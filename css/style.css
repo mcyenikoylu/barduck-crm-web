@@ -1098,10 +1098,10 @@ Version:      1.0
 	background-size: cover;
 }
 .background-image12 {
-	background: url(http://placehold.it/1920x900) no-repeat center top;
-	background-size: cover;
-	padding-top: 130px;
-	padding-bottom: 130px;
+    background: url('../images/hareketler1.jpg') no-repeat center top;
+    background-size: cover;
+    padding-top: 130px;
+    padding-bottom: 130px;
 }
 .background-image13 {
 	background: url(http://placehold.it/1920x900) no-repeat center top;

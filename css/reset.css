@@ -214,7 +214,7 @@ ul.list-padding3 li {
 }
 
 .caps {
-	text-transform: uppercase;
+	/*text-transform: uppercase;*/
 }
 .nocaps {
 	text-transform: none;
